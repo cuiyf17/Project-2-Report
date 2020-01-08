@@ -1,0 +1,126 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{CartoonGAN}
+Y.~Chen, Y.-K. Lai, and Y.-J. Liu.
+\newblock Cartoongan: Generative adversarial networks for photo cartoonization.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 9465--9474, 2018.
+
+\bibitem{dumoulin2016adversarially}
+V.~Dumoulin, I.~Belghazi, B.~Poole, O.~Mastropietro, A.~Lamb, M.~Arjovsky, and
+  A.~Courville.
+\newblock Adversarially learned inference.
+\newblock {\em arXiv preprint arXiv:1606.00704}, 2016.
+
+\bibitem{gatys2015texture}
+L.~A. Gatys, A.~S. Ecker, and M.~Bethge.
+\newblock Texture synthesis and the controlled generation of natural stimuli
+  using convolutional neural networks.
+\newblock {\em arXiv preprint arXiv:1505.07376}, 12:4, 2015.
+
+\bibitem{NST}
+L.~A. Gatys, A.~S. Ecker, and M.~Bethge.
+\newblock Image style transfer using convolutional neural networks.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 2414--2423, 2016.
+
+\bibitem{GAN}
+I.~Goodfellow, J.~Pouget-Abadie, M.~Mirza, B.~Xu, D.~Warde-Farley, S.~Ozair,
+  A.~Courville, and Y.~Bengio.
+\newblock Generative adversarial nets.
+\newblock In {\em Advances in neural information processing systems}, pages
+  2672--2680, 2014.
+
+\bibitem{isola2017image}
+P.~Isola, J.-Y. Zhu, T.~Zhou, and A.~A. Efros.
+\newblock Image-to-image translation with conditional adversarial networks.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 1125--1134, 2017.
+
+\bibitem{karacan2016learning}
+L.~Karacan, Z.~Akata, A.~Erdem, and E.~Erdem.
+\newblock Learning to generate images of outdoor scenes from attributes and
+  semantic layouts.
+\newblock {\em arXiv preprint arXiv:1612.00215}, 2016.
+
+\bibitem{krizhevsky2012imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem{lawrence1997face}
+S.~Lawrence, C.~L. Giles, A.~C. Tsoi, and A.~D. Back.
+\newblock Face recognition: A convolutional neural-network approach.
+\newblock {\em IEEE transactions on neural networks}, 8(1):98--113, 1997.
+
+\bibitem{ledig2017photo}
+C.~Ledig, L.~Theis, F.~Husz{\'a}r, J.~Caballero, A.~Cunningham, A.~Acosta,
+  A.~Aitken, A.~Tejani, J.~Totz, Z.~Wang, et~al.
+\newblock Photo-realistic single image super-resolution using a generative
+  adversarial network.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 4681--4690, 2017.
+
+\bibitem{luque2012cel}
+R.~R. Luque.
+\newblock The cel shading technique.
+\newblock Technical report, Citeseer, 2012.
+
+\bibitem{dcGAN}
+A.~Radford, L.~Metz, and S.~Chintala.
+\newblock Unsupervised representation learning with deep convolutional
+  generative adversarial networks.
+\newblock In {\em International Conference on Learning Representations}, 2016.
+
+\bibitem{reed2016generative}
+S.~Reed, Z.~Akata, X.~Yan, L.~Logeswaran, B.~Schiele, and H.~Lee.
+\newblock Generative adversarial text to image synthesis.
+\newblock {\em arXiv preprint arXiv:1605.05396}, 2016.
+
+\bibitem{rosin2012image}
+P.~Rosin and J.~Collomosse.
+\newblock {\em Image and video-based artistic stylisation}, volume~42.
+\newblock Springer Science \& Business Media, 2012.
+
+\bibitem{rosin2015non}
+P.~L. Rosin and Y.-K. Lai.
+\newblock Non-photorealistic rendering of portraits.
+\newblock In {\em Proceedings of the workshop on Computational Aesthetics},
+  pages 159--170. Eurographics Association, 2015.
+
+\bibitem{saito1990comprehensible}
+T.~Saito and T.~Takahashi.
+\newblock Comprehensible rendering of 3-d shapes.
+\newblock In {\em ACM SIGGRAPH Computer Graphics}, volume~24, pages 197--206.
+  ACM, 1990.
+
+\bibitem{VGG}
+K.~Simonyan and A.~Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{winnemoller2006real}
+H.~Winnem{\"o}ller, S.~C. Olsen, and B.~Gooch.
+\newblock Real-time video abstraction.
+\newblock In {\em ACM Transactions On Graphics (TOG)}, volume~25, pages
+  1221--1226. ACM, 2006.
+
+\bibitem{xu2011image}
+L.~Xu, C.~Lu, Y.~Xu, and J.~Jia.
+\newblock Image smoothing via l 0 gradient minimization.
+\newblock In {\em ACM Transactions on Graphics (TOG)}, volume~30, page 174.
+  ACM, 2011.
+
+\bibitem{yang2010semantics}
+M.~Yang, S.~Lin, P.~Luo, L.~Lin, and H.~Chao.
+\newblock Semantics-driven portrait cartoon stylization.
+\newblock In {\em 2010 IEEE International Conference on Image Processing},
+  pages 1805--1808. IEEE, 2010.
+
+\bibitem{yeh2016semantic}
+R.~Yeh, C.~Chen, T.~Y. Lim, M.~Hasegawa-Johnson, and M.~N. Do.
+\newblock Semantic image inpainting with perceptual and contextual losses.
+\newblock {\em arXiv preprint arXiv:1607.07539}, 2:3, 2016.
+
+\end{thebibliography}
